@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-## I'm an IT Student at Epitech Strasbourg!
+## I'm an IT Student at Epitech!
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
@@ -27,6 +27,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=KORV3NT&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KORV3NT&theme=shadow_green&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KORV3NT&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
